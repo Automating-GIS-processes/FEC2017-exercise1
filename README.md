@@ -12,6 +12,7 @@ The answers to the questions in this week's exercise should be given by modifyin
 
 During the first lesson we did a small exercise where we made python to print the text "Hello World!".
 Copy the code into a script file `HelloWorld.py` and upload the file to this repository. Your code should look
+something like this (with and update on the last line):
 
 ```python
 
@@ -51,12 +52,11 @@ Now you should open the script in Spyder and fix it. After major fixes, or at le
 4. Click "Commit changes"
 
 
-
 ## Problem 3 - Modifying the Readme.md -file
 In this task you will practice how to make some changes to this `README.md` using the Markdown-syntax.
 
 1. List the changes (in regular English, not Python code) you needed to make to the code in Problem 1 to get it working.
-You can read about how to format numbered lists on the GitHub page about [GitHub-flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/), or search online for "markdown syntax".
+You can read about how to format numbered lists on the GitHub page about [GitHub-flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/), or search from [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 2. Replace the image below with a new image containing a map along with a short caption describing it's content.
 You can add an image by linking to a website, or by uploading an image to your GitHub repository and linking to that.
