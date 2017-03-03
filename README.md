@@ -1,6 +1,6 @@
 # Automating GIS processes/ FEC 2017 / Exercise 1
 
-# Exercise-1:
+**Automating GIS processes/FEC 2017/[Exercise 1](https://automating-gis-processes.github.io/FEC/Day1-Exercise1.html)**
 
 This exercises is meant to help you better understand data types and lists in Python, and practice saving files to GitHub.
 Below you have a series of "problems" in which you will be asked to either download and modify, or create new script files.
