@@ -10,18 +10,18 @@ This code will not work if the cat's name is not in list of cat names.
 
 Usage: ./cattreats.py
 
-David Whipp - 12.9.2016
+Origina Exercise by David Whipp - 12.9.2016, modified by Vuokko H.
 '''
 
-# Set the selected cat
-SelectedCat = 7
+# FIX 1: Set a value for the selected cat (you need to insert the name of the cat)
+SelectedCat =
 
 # Create and fill lists of cats and treats
-Cats = ['Garfield', 'Nermal', 'Tom Cat', 'Puss in Boots', 'Hobbes', 'Stimpy', 'Snowball II']
+Cats = ['Garfield', 'Nermal', 'Tom Cat', 'Puss in Boots', 'Hobbes', 'Stimpy']
 Treats = ['Lasagne', 'Praise', 'Mice', 'Power', 'Calvin', 'Fresh kitty litter']
 
-# Find location of selected cat
-CatIndex = Cats.index(SelectedCat)
+#FIX 2: Find location of selected cat (you need to insert the variable containing the cat-name)
+CatIndex = Cats.index()
 
-# Print cat name and favorit treat on screen
-print("The favorite treat of", SelectedCat, "is", Treats[SelectedCat])
+# FIX 3: Print cat name and favorite treat on screen (you need to add correct variables inside the print-function)
+print("The favorite treat of","Garfield" , "is", Treats[]) #modify the code so that it works for any of the listed cats!
